@@ -1,1 +1,1 @@
- RESOURCES: GOOGLE , GFG , TechTarget , Javatpoint 
+ RESOURCES: GOOGLE , GFG 
