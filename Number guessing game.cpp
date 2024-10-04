@@ -7,9 +7,6 @@ int main() {
     cout<<"-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Number__Guessing__Game-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="<<endl;
     
 
-    
-
-    
     srand(time(0));
     int a;
     int p;
